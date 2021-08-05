@@ -15,5 +15,6 @@ PIL
 numpy
 <br />
 tensorflow_addons
-<br />
+
+
 ## İrem Sönmez
