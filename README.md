@@ -5,10 +5,15 @@
 http://cimalab.intec.co/applications/thyroid/index.php
 
 ## Necessary Libraries:
+<br />
 Matplotlib
+<br />
 tensorflow
+<br />
 PIL
+<br />
 numpy
+<br />
 tensorflow_addons
- 
+<br />
 ## İrem Sönmez
