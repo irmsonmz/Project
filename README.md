@@ -17,4 +17,4 @@ numpy
 tensorflow_addons
 
 
-## İrem Sönmez
+## Author:  İrem Sönmez
